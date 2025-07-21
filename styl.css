@@ -1,0 +1,30 @@
+body {
+	font: 14px Verdana;
+}
+
+h2, h3, h4, h5, h6 {
+	text-align: center;
+	color: #0a294b;
+	font-family: Arial;
+	text-shadow: 3px 3px 7px #666666;
+}
+
+h2 {
+	font-size: 1.7em;
+}
+
+h1 {
+	font-size: 2em;
+	font-weight: normal;
+	color: white;
+	text-align: center;
+	text-shadow: 2px 2px 1px #0a294b;
+}
+
+.centrovany  {
+	text-align: center;
+}
+
+article {
+	background: url('obrazky/back.jpg');
+}
